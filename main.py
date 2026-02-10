@@ -36,7 +36,7 @@ APIS_FILE = os.path.join(DATA_DIR, "apis.json")
 CHATS_FILE = os.path.join(DATA_DIR, "chats.json")
 OWNERS_FILE = os.path.join(DATA_DIR, "owners.json")
 
-DEFAULT_OWNERS = [6520599142]
+DEFAULT_OWNERS = [7011937754]
 FETCH_INTERVAL = 3
 
 FIXED_BUTTON_3_NAME = "🔥 Channel"
