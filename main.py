@@ -26,8 +26,8 @@ from telegram.ext import (
 )
 from telegram.error import BadRequest, Forbidden
 
-BOT_TOKEN = "8534037698:AAEgryoJFIsGwWBtZ6sdlhnL_by1MvgX-dY"
-BOT_USERNAME = "Duaotp52_bot"
+BOT_TOKEN = "8446798065:AAHC1BtiUTUcQkD18Ryt-Nqc87RlMBYK4Xo"
+BOT_USERNAME = "junaidaliRebot"
 DATA_DIR = "data"
 LOGS_DIR = os.path.join(DATA_DIR, "logs")
 STATES_DIR = os.path.join(DATA_DIR, "states")
